@@ -7,7 +7,10 @@ Some of the popular languages that data scientists use are:
 - R
 - SQL
 - Java
-- 
+- Julia
+- Keras
+- C++
+- etc...
 ## Data Science Libraries
 Some of the commonly used libraries by data scientists include:
 - Pandas
@@ -15,7 +18,8 @@ Some of the commonly used libraries by data scientists include:
 - Matplotlib
 - Scikit-learn
 - TensorFlow
--
+- Plotly
+- etc...
 ## Data Science Tools
 | Tool           | Description                                         |
 |----------------|-----------------------------------------------------|
@@ -26,35 +30,32 @@ Some of the commonly used libraries by data scientists include:
 | Apache Spark   | Unified analytics engine for big data processin
 
 ## Arithmetic Expression Examples
-In this section, we will demonstrate basic arithmetic operations such as addition and multiplication
+In this section, we will demonstrate basic arithmetic operations such as addition and multiplication.
 
-.# Code cell
+# Code cell
 # Example of multiplication and addition
 a = 5
 b = 4
 multiplication_result = a * b
 addition_result = a + b
-multiplication_result, addition_
+multiplication_result, addition_result
 
 # Code cell
 # Convert minutes to hours
 minutes = 120
 hours = minutes / 60
-ho
+hours
+
 ## Objectives
 The main objectives of this notebook are:
 - To list popular languages for Data Science
 - To list commonly used libraries in Data Science
 - To present a table of Data Science tools
 - To demonstrate basic arithmetic operations
-- To convert time u## AuthorYago Ramose
+- To convert time units
 
-        nits
-urs
-result
+## Author
+Yago Ramose
 
-g    |
- Keras
-Julia
 
 
